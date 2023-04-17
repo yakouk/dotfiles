@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = youvalakouka@gmail.com
+	name = Youval Akouka
